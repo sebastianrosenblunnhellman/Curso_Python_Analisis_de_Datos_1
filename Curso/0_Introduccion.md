@@ -85,9 +85,10 @@ Es importante mencionar que no es necesario absolutamente ningún conocimiento p
 
 Python para Psicólogos I (Estadística descriptiva)
 Python para Psicologos II (Estadistica inferencial) 
+Python para Psicólogos V (Pruebas Psicometricas)
 Python para Psicologos III (Aprendizaje automático)
 Python para Psicólogos IV (Desarrollo de experimentos) 
-Python para Psicólogos V (Pruebas Psicometricas)
+
 
 Pero… ¿que vamos a aprender específicamente ?. Bien, para ponerlos en contexto, estamos parados justo en el primer curso, y como indica el título, aprenderemos python con una orientación práctica para investigadores de ciencias humanas en general, y pero mas particularmente para Psicólogos. A lo largo de este curso, y de los otros cursos, vamos a ir escalando en niveles de dificultad. En este primer curso darás tus primeros pasos en Python y aprenderás los conceptos básicos de estadística descriptiva aplicando toda la teoría a la práctica Python. El curso esta modularizado por temas, por si queres volver a algún punto en particular o por si queres saltarte lo que ya sabes. Además, como la cereza del postre, si lo que buscas es desempeñarte en el ámbito de la investigación, cada uno de los cursos tiene un trabajo final que te va a servir sin lugar a dudas como experiencia en el portafolio personal.
 El enfoque del curso es el pragmatismo puro, por lo tanto en el curso no explica todo de forma exhaustiva, sino que se explica lo mínimo y necesario para que uno no se que agobie al aprender y que aquello que tiene niveles de importancia secundaria se aprenda en la práctica y el aprendizaje autodidacta.
